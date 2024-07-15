@@ -1,0 +1,14 @@
+{
+  "name": "cli-fileserver",
+  "version": "1.0.0",
+  "description": "Command Line based file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "Blake Gifford",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
