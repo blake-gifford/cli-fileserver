@@ -9,6 +9,8 @@
   "author": "Blake Gifford",
   "license": "ISC",
   "dependencies": {
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
   }
 }
